@@ -1,0 +1,12 @@
+.block {
+  text-align: center;
+  max-width: 400px;
+  height: 500px;
+
+  margin: 0 auto;
+  background-color: aqua;
+}
+
+.registerContainer {
+  margin-top: 50px;
+}
